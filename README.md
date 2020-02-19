@@ -12,7 +12,7 @@ Each folder contains these files:
 
 ## Have a go!
 
-If you enjoy some bite-sized coding challenges, sign-up at hackerrank.com and begin! Many languages to choose from (although no Dart...). For me, I found Python3 was a good fit for the type of problems presented. Each challenge typically involve:
+If you enjoy some bite-sized coding challenges, sign-up at hackerrank.com and begin! Many languages to choose from (although no Dart...). For me, I found Python3 was a good fit for the type of problems presented. Each challenge typically involves most of the below:
 
 1. Comprehension - understand the problem statement, what they're asking for
 2. Math - breakdown the calculations involved and look for patterns, 
