@@ -2,7 +2,7 @@
 
 A collection of folders containing some of my submissions to hackerrank.com. All written in Python3. 
 
-## What's in here
+## What's in here?
 
 Each folder contains these files:
 
