@@ -14,6 +14,7 @@ def pairs(k, arr):
     pairCount = 0
     for i in range(n - 1):
         plusK = arr[i] + k
+        # find the position just past where the required +k element will be, if at all
         index = bisect_right(arr, plusK)
         if index > n: continue
         if arr[index - 1] == plusK:
